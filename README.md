@@ -9,7 +9,7 @@ Basically, I wrote this website purely in HTML & CSS. I'm still trying to think 
 
 #contribute
 You can contribute to the project by writing your answers in this format:
-Name: <Your name>
-Hometown: <Your hometown>
-Favorite RPG/RPG series: <Your favorite RPG and/or RPG series>
-If I were to be in an RPG my class would be: <your class>
+Name: Your name
+Hometown: Your hometown
+Favorite RPG/RPG series: Your favorite RPG and/or RPG series
+If I were to be in an RPG my class would be: Your class
